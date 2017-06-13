@@ -1,0 +1,32 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Verdana, sans-serif;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  padding-left: 20px;
+  border-bottom: 1px solid black;
+}
+
+#nav {
+  justify-content: flex-end;
+}
+
+nav {
+  font-family: Verdana;
+  display: block;
+  justify-content: flex-end;
+  display: block;
+}
+
+.logo {
+  color: MediumAquamarine;
+  padding-left: 10px;
+}
